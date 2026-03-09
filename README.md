@@ -1,3 +1,5 @@
+A game build with SDL2
+
 # Introduction
 This is a private repo for our 5 people to source control of our CSC3002 (C and C++) project.
 feel free to write down your idea about the project. 

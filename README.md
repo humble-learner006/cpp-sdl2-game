@@ -1,7 +1,11 @@
 A game build with SDL2
+用SDL2库做了一个 Tile Map小游戏
 
-# Introduction
-This is a private repo for our 5 people to source control of our CSC3002 (C and C++) project.
+# Introduction of this game
+讲述一个在学校里游荡的幽灵，和小猫互动的故事。
+
+# Introduction of this course project
+This is a private repo (Now public since we pass this course) for our 5 people to source control of our CSC3002 (C and C++) project.
 feel free to write down your idea about the project. 
 ## Hyperlinks
 - 开发过程的**问题&解法**汇总 -> **CHECK** [help](Docs/help.md)  
